@@ -4,7 +4,9 @@ import { useRef, useState, MouseEvent } from "react";
 import { motion } from "framer-motion";
 import { cn } from "@/lib/utils";
 
-interface MagneticButtonProps extends React.ButtonHTMLAttributes<HTMLButtonElement> {
+import { HTMLMotionProps } from "framer-motion";
+
+interface MagneticButtonProps extends Omit<HTMLMotionProps<"button">, "ref"> {
     children: React.ReactNode;
     variant?: "primary" | "secondary" | "outline" | "ghost";
     size?: "sm" | "md" | "lg";
