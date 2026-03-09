@@ -2,6 +2,8 @@
 
 import { motion } from "framer-motion";
 
+
+
 export function NetworkGraph() {
     const nodes = [
         { x: 30, y: 30 }, { x: 70, y: 20 }, { x: 50, y: 50 },
