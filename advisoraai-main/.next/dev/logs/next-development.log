@@ -1,0 +1,38 @@
+[00:00:00.853] Server  LOG     ✓ Ready in 655ms
+[00:00:02.673] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:07:07.015] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:10:02.068] Server  ERROR   Error: ENOENT: no such file or directory, scandir '/home/t1/my-project/advisoraai-main/src/app'
+[00:10:02.081] Server  ERROR   ⨯ "unhandledRejection:" Error: ENOENT: no such file or directory, scandir '/home/t1/my-project/advisoraai-main/src/app'
+[00:10:02.086] Server  ERROR   ⨯ "unhandledRejection: " Error: ENOENT: no such file or directory, scandir '/home/t1/my-project/advisoraai-main/src/app'
+[00:10:02.138] Server  ERROR   ⨯ PageNotFoundError: Cannot find module for page: route not found /_not-found/page
+[00:10:03.116] Server  ERROR   Error: Cannot find module '/home/t1/my-project/advisoraai-main/node_modules/styled-jsx/index.js'
+Require stack:
+- /home/t1/my-project/node_modules/next/dist/compiled/next-server/pages-turbo.runtime.dev.js
+- /home/t1/my-project/node_modules/next/dist/server/route-modules/pages/module.compiled.js
+- /home/t1/my-project/node_modules/next/dist/server/route-modules/pages/vendored/contexts/html-context.js
+- /home/t1/my-project/node_modules/next/dist/pages/_document.js
+- /home/t1/my-project/advisoraai-main/node_modules/next/dist/server/load-default-error-components.js
+- /home/t1/my-project/advisoraai-main/node_modules/next/dist/server/dev/next-dev-server.js
+- /home/t1/my-project/advisoraai-main/node_modules/next/dist/server/next.js
+- /home/t1/my-project/advisoraai-main/node_modules/next/dist/server/lib/start-server.js
+[00:10:03.118] Server  ERROR   Error: ENOENT: no such file or directory, scandir '/home/t1/my-project/advisoraai-main/src/app'
+[00:10:03.132] Server  ERROR   Error: ENOENT: no such file or directory, scandir '/home/t1/my-project/advisoraai-main/src/app'
+[00:10:03.134] Server  ERROR   Error: ENOENT: no such file or directory, scandir '/home/t1/my-project/advisoraai-main/src/app'
+[00:10:03.140] Server  ERROR   Error: ENOENT: no such file or directory, scandir '/home/t1/my-project/advisoraai-main/src/app'
+[00:10:03.142] Server  ERROR   Error: ENOENT: no such file or directory, scandir '/home/t1/my-project/advisoraai-main/src/app'
+[00:10:03.147] Server  ERROR   Error: ENOENT: no such file or directory, scandir '/home/t1/my-project/advisoraai-main/src/app'
+[00:10:03.148] Server  ERROR   Error: ENOENT: no such file or directory, scandir '/home/t1/my-project/advisoraai-main/src/app'
+[00:10:03.153] Server  ERROR   Error: ENOENT: no such file or directory, scandir '/home/t1/my-project/advisoraai-main/src/app'
+[00:10:03.155] Server  ERROR   Error: ENOENT: no such file or directory, scandir '/home/t1/my-project/advisoraai-main/src/app'
+[00:10:03.161] Server  ERROR   Error: ENOENT: no such file or directory, scandir '/home/t1/my-project/advisoraai-main/src/app'
+[00:10:03.162] Server  ERROR   Error: ENOENT: no such file or directory, scandir '/home/t1/my-project/advisoraai-main/src/app'
+[00:10:03.165] Server  ERROR   Error: ENOENT: no such file or directory, scandir '/home/t1/my-project/advisoraai-main/src/app'
+[00:10:03.167] Server  ERROR   Error: ENOENT: no such file or directory, scandir '/home/t1/my-project/advisoraai-main/src/app'
+[00:10:03.172] Server  ERROR   Error: ENOENT: no such file or directory, scandir '/home/t1/my-project/advisoraai-main/src/app'
+[00:10:03.174] Server  ERROR   Error: ENOENT: no such file or directory, scandir '/home/t1/my-project/advisoraai-main/src/app'
+[00:10:03.178] Server  ERROR   Error: ENOENT: no such file or directory, scandir '/home/t1/my-project/advisoraai-main/src/app'
+[00:10:03.180] Server  ERROR   Error: ENOENT: no such file or directory, scandir '/home/t1/my-project/advisoraai-main/src/app'
+[00:10:03.185] Server  ERROR   Error: ENOENT: no such file or directory, scandir '/home/t1/my-project/advisoraai-main/src/app'
+[00:10:03.188] Server  ERROR   Error: ENOENT: no such file or directory, scandir '/home/t1/my-project/advisoraai-main/src/app'
+[00:10:03.196] Server  ERROR   Error: ENOENT: no such file or directory, scandir '/home/t1/my-project/advisoraai-main/src/app'
+[00:10:03.198] Server  ERROR   Error: ENOENT: no such file or directory, scandir '/home/t1/my-project/advisoraai-main/src/app'

@@ -1,0 +1,51 @@
+globalThis.__BUILD_MANIFEST = {
+  "pages": {
+    "/_app": [
+      "static/chunks/c6d3b_next_dist_compiled_89363a92._.js",
+      "static/chunks/c6d3b_next_dist_shared_lib_c829e90c._.js",
+      "static/chunks/c6d3b_next_dist_client_675170d2._.js",
+      "static/chunks/c6d3b_next_dist_812eea58._.js",
+      "static/chunks/c6d3b_next_app_0f8291d4.js",
+      "static/chunks/[next]_entry_page-loader_ts_0c1adfbe._.js",
+      "static/chunks/c6d3b_react-dom_958b5482._.js",
+      "static/chunks/c6d3b_1415a46b._.js",
+      "static/chunks/[root-of-the-server]__40f62547._.js",
+      "static/chunks/my-project_advisoraai-main_pages__app_2da965e7._.js",
+      "static/chunks/turbopack-my-project_advisoraai-main_pages__app_7865daaa._.js"
+    ],
+    "/_error": [
+      "static/chunks/c6d3b_next_dist_compiled_89363a92._.js",
+      "static/chunks/c6d3b_next_dist_shared_lib_d9c31c1f._.js",
+      "static/chunks/c6d3b_next_dist_client_675170d2._.js",
+      "static/chunks/c6d3b_next_dist_d36b05e7._.js",
+      "static/chunks/c6d3b_next_error_c78d669b.js",
+      "static/chunks/[next]_entry_page-loader_ts_037871e5._.js",
+      "static/chunks/c6d3b_react-dom_958b5482._.js",
+      "static/chunks/c6d3b_1415a46b._.js",
+      "static/chunks/[root-of-the-server]__f8950878._.js",
+      "static/chunks/my-project_advisoraai-main_pages__error_2da965e7._.js",
+      "static/chunks/turbopack-my-project_advisoraai-main_pages__error_2b17010c._.js"
+    ]
+  },
+  "devFiles": [],
+  "polyfillFiles": [
+    "static/chunks/85e14_next_dist_build_polyfills_polyfill-nomodule.js"
+  ],
+  "lowPriorityFiles": [],
+  "rootMainFiles": [
+    "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_c31a6d17._.js",
+    "static/chunks/85e14_next_dist_compiled_react-dom_88d6ec05._.js",
+    "static/chunks/85e14_next_dist_compiled_react-server-dom-turbopack_1967dad0._.js",
+    "static/chunks/85e14_next_dist_compiled_next-devtools_index_885e2b63.js",
+    "static/chunks/85e14_next_dist_compiled_ae6f9884._.js",
+    "static/chunks/85e14_next_dist_client_4bcdfb9f._.js",
+    "static/chunks/85e14_next_dist_f25c72aa._.js",
+    "static/chunks/85e14_@swc_helpers_cjs_46ae73a9._.js",
+    "static/chunks/my-project_advisoraai-main_a0ff3932._.js",
+    "static/chunks/turbopack-my-project_advisoraai-main_68f78cfd._.js"
+  ]
+};
+globalThis.__BUILD_MANIFEST.lowPriorityFiles = [
+"/static/" + process.env.__NEXT_BUILD_ID + "/_buildManifest.js",
+"/static/" + process.env.__NEXT_BUILD_ID + "/_ssgManifest.js"
+];
