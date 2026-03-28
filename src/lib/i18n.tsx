@@ -59,12 +59,6 @@ type Translations = {
             scale: { title: string; desc: string };
         };
     };
-    trustedBy: {
-        title: {
-            highlight: string;
-            rest: string;
-        };
-    };
     cta: {
         title: {
             line1: string;
@@ -211,12 +205,6 @@ const translations: Record<Language, Translations> = {
                 build: { title: "Desarrollo", desc: "Desarrollo ágil con actualizaciones constantes y feedback." },
                 scale: { title: "Escalado", desc: "Lanzamiento, monitoreo y optimización para el crecimiento." },
             },
-        },
-        trustedBy: {
-            title: {
-                highlight: "Fundadores",
-                rest: "que Hemos Tenido la Suerte de Apoyar"
-            }
         },
         cta: {
             title: {
@@ -408,12 +396,6 @@ const translations: Record<Language, Translations> = {
                 build: { title: "Build", desc: "Agile development with regular updates and feedback loops." },
                 scale: { title: "Scale", desc: "Launch, monitor, and optimize for growth." },
             },
-        },
-        trustedBy: {
-            title: {
-                highlight: "Founders",
-                rest: "We've Been Lucky to Back"
-            }
         },
         cta: {
             title: {
